@@ -1,0 +1,105 @@
+commit c4836fb058443aaf3a6c150f1dec93d971dd47e7
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:39:36 2023 +0200
+
+    file1 poistettu ja file2 uudelleennimetty
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit cd8c0514b0a9ac44d6dfd55dea401c4a05f68644
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:35:46 2023 +0200
+
+    tiedostoja luotu
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 7ed7f3ab0249b7780958c9a90b43e70f9ac0786b
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:32:23 2023 +0200
+
+    muutoksia ekaan ja kolmanteen
+
+ eka.txt    | 8 +-------
+ kolmas.txt | 6 +++++-
+ 2 files changed, 6 insertions(+), 8 deletions(-)
+
+commit fe22171d5f7b5f1ee1e9a07b487f65fcf97598a6
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:29:03 2023 +0200
+
+    poisto ja uudelleennimentä
+
+ tiedosto.txt => eka.txt | 0
+ toinen.txt              | 1 -
+ 2 files changed, 1 deletion(-)
+
+commit 45b4b223d8e4c738f5beef871b79f41638bcf502
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:24:28 2023 +0200
+
+    lisää muutoksia tiedostoon
+
+ tiedosto.txt | 16 +++++++++++-----
+ 1 file changed, 11 insertions(+), 5 deletions(-)
+
+commit b22c01965d794f3dbb7e11dc44204e5ff8ad617e
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:22:26 2023 +0200
+
+    muutoksia tiedostoon
+
+ tiedosto.txt | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 13fde6b7464406a778bc0025bc97ce3e2aee6197
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:18:56 2023 +0200
+
+    hakemisto stuff ja neljäs luotu
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 23034c13371f0369655a60267fceb5d67058afa4
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:16:41 2023 +0200
+
+    muutokset toiseen ja kolmanteen
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 46cc02c31eaf3a6aed1bec769171ea0e70130360
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:15:37 2023 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 71266cfa2d95ab5e9765f9ffb55dbbd458474cb3
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:14:23 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 47b14f3655f46b2f043e1684f1b1f2ab560734fa
+Author: aarnioem <aarnioem@gmail.com>
+Date:   Tue Mar 21 16:12:19 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
