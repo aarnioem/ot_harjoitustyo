@@ -13,3 +13,12 @@
 [maksukortti](https://github.com/aarnioem/ot_harjoitustyo/tree/master/laskarit/viikko2/maksukortti)  
 
 **Viikko 3**
+
+
+
+
+# Harjoitustyö
+
+## Dokumentaatio  
+
+[Vaatimusmäärittely](https://github.com/aarnioem/ot_harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
